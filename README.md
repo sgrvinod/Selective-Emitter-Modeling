@@ -7,5 +7,5 @@ Created for the Solar Thermal Engineering course at Columbia University.
 3. Perform heat transfer analysis
 4. 
 
-##Modeled in Python
+###Modeled in Python.
 
