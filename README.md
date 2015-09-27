@@ -1,10 +1,12 @@
-#Selective Emitter Modeling
+#Selective Emitter Modeling 
 Wrote this for the Solar Thermal Engineering course at Columbia University.
 
-##The three questions address:
-1. Modeling thermal emission from the atmosphere
-2. Create your own selective emitter
-3. Perform heat transfer analysis
+##Modeled in Python.
 
-###Modeled in Python.
+##The three questions address, respectively:
+1. Modeling thermal emission from the atmosphere
+2. Create a selective emitter
+3. Perform heat transfer analysis to evaluate cooling performance
+
+
 
