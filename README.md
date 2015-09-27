@@ -1,5 +1,5 @@
 #Selective Emitter Modeling
-Created for the Solar Thermal Engineering course at Columbia University.
+Wrote this for the Solar Thermal Engineering course at Columbia University.
 
 ##The three questions address:
 1. Modeling thermal emission from the atmosphere
